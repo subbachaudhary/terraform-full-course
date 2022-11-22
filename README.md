@@ -1,2 +1,1 @@
-# terraform-full-course
-terraform-crash-code
+# terrafrom-gcp-udemy-subba
